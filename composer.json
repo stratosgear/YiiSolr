@@ -1,0 +1,21 @@
+{
+    "name": "stratosgear/YiiSolr",
+    "description": "A Yii extension that provides a wrapper for the pecl Solr library.",
+    "keywords": ["solr"],
+    "type": "yii-extension",
+    "license": "",
+    "authors": [
+        {
+            "name": "Charles Pick",
+            "email": "charles.pick@gmail.com",
+            "homepage": "http://github.com/phpnode",
+            "role": "original author"
+        },
+        {
+            "name": "Stratos Gerakakis",
+            "email": "stratosgear@gmail.com",
+            "homepage": "http://stratos.gerakakis.net",
+            "role": "packager"
+        }
+    ]
+}
